@@ -11,7 +11,7 @@ swagger = Swagger(app)
 class UppercaseText(Resource):
     def get(self):
         """
-        This method responds to the GET request for this endpoint and returns the data in uppercase.
+        This method responds to the ZECAAA GET request for this endpoint and returns the data in uppercase.
         ---
         tags:
         - Text Processing
